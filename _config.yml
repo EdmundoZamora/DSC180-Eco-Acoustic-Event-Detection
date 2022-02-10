@@ -1,4 +1,3 @@
 name: TweetyNet, Eco-Acoustic Event Detector
-markdown: kramdown
 theme: jekyll-theme-cayman
 permalink: DSC180-Eco-Acoustic-Event-Detection/blog/:year/:month/:day/:title
