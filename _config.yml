@@ -1,4 +1,4 @@
 name: TweetyNet, Eco-Acoustic Event Detector
-markdown: idk yet
+markdown: kramdown
 theme: cayman
 permalink: /blog/:year/:month/:day/:title
