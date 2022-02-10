@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TweetyNet Eco-Acoustic Event Detection, Site"
+title: "TweetyNet Eco-Acoustic Event Detection"
 date: 2022-02-09
 ---
 
