@@ -1,4 +1,4 @@
-name: TweetyNet, Eco-Acoustic Event Detector
-markdown: kramdown
+# name: TweetyNet, Eco-Acoustic Event Detector
+# markdown: kramdown
 theme: jekyll-theme-slate
 permalink: /blog/:year/:month/:day/:title
